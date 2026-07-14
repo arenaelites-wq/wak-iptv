@@ -196,6 +196,8 @@ https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 ##################################################
 #                 MALAYSIA
 ##################################################
+#EXTINF:-1 tvg-id="TV1.my" ch-number="101" tvg-name="TV1 HD" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/tv1.png", 101 TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV2.my" ch-number="102" tvg-name="TV2 HD" group-title="MALAYSIA" tvg-logo="https://ptv2026.com/logo/tv2.png", 102 TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
@@ -206,6 +208,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TV3&kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
+
+#EXTINF:-1 tvg-id="TV Okey" ch-number="108" tvg-name="TV Okey" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/okey.png", 108 Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-id="pesonahd" ch-number="103" tvg-name="" group-title="MALAYSIA" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4BDA018A-6442-4561-85D4-CD8333CA2560/0-16x9.png?width=430",110 Pesona HD
 #KODIPROP:inputstream=inputstream.adaptive
