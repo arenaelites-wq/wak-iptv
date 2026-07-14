@@ -209,8 +209,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
 https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TV3&kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
 
-#EXTINF:-1 tvg-id="TV Okey" ch-number="108" tvg-name="TV Okey" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/okey.png", 108 Okey
+#EXTINF:-1 tvg-id="TV Okey" ch-number="108" tvg-name="TV Okey" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/okey.png", 108 TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="" tvg-logo="https://rtm.glueapi.io/v3/content/16/image/960x540/images.thumbnail",140 RTM WORLD
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+
+#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="" tvg-logo="https://static.wikitide.net/avidwiki/thumb/c/c3/RTM_pre-rebrand_endcap_2021.png/534px-RTM_pre-rebrand_endcap_2021.png",124 RTM Lead
+https://d1sq2slp9afh7o.cloudfront.net/smil:lead/playlist.m3u8?id=24101
 
 #EXTINF:-1 tvg-id="" tvg-id="pesonahd" ch-number="103" tvg-name="" group-title="MALAYSIA" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4BDA018A-6442-4561-85D4-CD8333CA2560/0-16x9.png?width=430",110 Pesona HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -266,12 +272,6 @@ https://1938ecee77d844ba8727487421f36e44.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="" tvg-logo="https://get.perfecttv.net/logo/jomngaji.png" ,124 Jom Ngaji
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH6_JOMNGAJI/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=10062fbd-3f7d-49e1-8f2b-95cd04543d7d&channel=jomngaji
-
-#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="" tvg-logo="https://ptv2026.com/logo/tv2.png",140 RTM WORLD
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-
-#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="" tvg-logo="https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png",124 RTM Lead
-https://d1sq2slp9afh7o.cloudfront.net/smil:lead/playlist.m3u8?id=24101
 
 #EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="" tvg-logo="https://rtb-images.glueapi.io/900x0/testing/noimage-banner.png",125 RTB Snap
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/playlist.m3u8?id=24099
