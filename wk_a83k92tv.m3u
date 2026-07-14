@@ -99,6 +99,11 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&ch
 #KODIPROP:inputstream.adaptive.license_key=98e8255fae9b41aebb334645a916c82b:3b631ef06c2782808a6d53ff0e24d9e3
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOF&kid=98e8255f-ae9b-41ae-bb33-4645a916c82b
 
+#EXTINF:-1 tvg-id="SIAR" tvg-name="SIAR" group-title="MOVIES" tvg-logo="https://ptv2026.com/logo/siar.png",138 Siar 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
+https://ptv2026.com/myunifi.mpd?channel=SIAR&kid=5489f58c-64ad-40db-a471-c8b1c2693e2a
+
 #EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX HD" group-title="MOVIES" tvg-logo="https://get.perfecttv.net/logo/cinemax.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",145 CINEMAX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
