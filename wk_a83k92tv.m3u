@@ -193,6 +193,22 @@ http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Great-action-logo.png/250px-Great-action-logo.png" group-title="MOVIES",Movies Action (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 
+#EXTINF:-1 group-logo="" group-title="MOVIES" tvg-id="Flix" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/4/48/Flix_%28Unternehmen%29_logo.svg/250px-Flix_%28Unternehmen%29_logo.svg.png" ,150 Flix
+https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
+
+#EXTINF:-1 group-logo="" group-title="MOVIES" tvg-id="FXM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6jstDMIbA7N-yoS56k85mXRHIODdCaSUcZv-Bg1pvvYVANNIrXnqKhvnq&s=10" ,151 FXM
+http://40.160.24.52/FXM/index.m3u8
+
+#EXTINF:-1 group-logo="" group-title="MOVIES" tvg-id="Grand Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsOcGkqHdiw-k_SmpUNJZvI4UZKm1fiRRUxrrTCY-8gQY0b_gErkiMHueJ&s=10" ,152 Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 group-logo="" group-title="MOVIES" tvg-id="Gravitas Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Gravitas_Ventures_logo_2021.jpg" ,157 Gravitas Movies
+https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
+
+#EXTINF:-1 group-logo="" group-title="MOVIES" tvg-id="Home Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Homeplus_BI.png" ,158 Home Plus
+https://homeplushls.wns.live/hls/stream.m3u8
+
+
 ##################################################
 #                 MALAYSIA
 ##################################################
@@ -457,6 +473,15 @@ https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Cinema-TV_India.jpg" group-title="INDIA",INDIA CINEMA (480p)
 http://103.175.73.12:8080/live/271/271_0.m3u8
 
+#EXTINF:-1 group-logo="" group-title="INDIA" tvg-id="Goldmines 2" tvg-logo="https://i.pinimg.com/236x/09/62/d9/0962d9a7c965d5ecb70f1a6f5c8f93dd.jpg",157 Goldmines 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+
+#EXTINF:-1 group-logo="" group-title="INDIA" tvg-id="Goldmines bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg" ,156 Goldmines bollywood
+http://103.175.73.12:8080/live/52/52_0.m3u8
+
+#EXTINF:-1 group-logo="" group-title="INDIA" tvg-id="South Station" tvg-logo="https://onecms-res.cloudinary.com/image/upload/v1673978069/mediacorp/corporate/inline-images/CNA__370x180.jpg" ,155 South Station
+https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
+
 ##################################################
 #                 MUSIC
 ##################################################
@@ -477,6 +502,30 @@ https://atomic.streamnet.ro/academia.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://atomic-tv.com/wp-content/uploads/2025/05/atomic-television-long-logo-long-black-500-x-200.png" group-title="MUSIC",Atomic TV
 https://atomic.streamnet.ro/atomictv.m3u8
+
+##################################################
+#                CHINESE
+##################################################
+#EXTINF:-1 group-logo="" group-title="CHINESE" tvg-id="NonStop Kung Fu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Kung_Fu_%28CW%29_official_logo.png/revision/latest?cb=20210506184705" ,153 NonStop Kung Fu
+https://jmp2.uk/plu-6728d2be529ac9000830dc15.m3u8
+
+#EXTINF:-1 group-logo="" group-title="CHINESE" tvg-id="NonStop Kung Fu ii" tvg-logo="https://s3.ap-southeast-1.amazonaws.com/cdn1.sgliteasset.com/mynonsto/images/webstore/logo/Untitled_2_1743763270.png" ,154 NonStop Kung Fu ii
+https://jmp2.uk/plu-6728d30cdaad7f000881d979.m3u8
+
+##################################################
+#                SONY
+##################################################
+#EXTINF:-1 group-logo="" group-title="SONY" tvg-id="Sony Movies" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/sony-movies-logo.png" ,158 Sony Movies
+http://45.162.64.114/SONY_MOVIES/index.m3u8
+
+#EXTINF:-1 group-logo="" group-title="SONY" tvg-id="Sony Movies Latin America" tvg-logo="https://sc.dish.com/shared/images/station-logos/SONY.png",159 Sony Movies Latin America
+http://40.160.24.55/SONY_MOVIES/index.m3u8
+
+#EXTINF:-1 group-logo="" group-title="SONY" tvg-id="Sony One" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8-0FsmcrLkqp0yY28paFdZ6YO_t_dgeWeyUlfaQX0vqupgdq5rBXm1Pc&s=10",160 Sony One
+https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+
+#EXTINF:-1 group-logo="" group-title="SONY" tvg-id="One Hits Action" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/b/ba/Sony_Action_Austrenia_2019.svg/revision/latest?cb=20231105232054",161 One Hits Action
+https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 
 ##################################################
 #                RADIO
